@@ -13,4 +13,4 @@ My name is Jodie Mclean. I have the following qualities:
 
 ### Currently watching
 
-[The Boys Spinoff Series, Gen V]([(https://www.amazon.com/gp/video/detail/B0CBFTRGPZ/ref=atv_dp_share_cu_r]) 
+The Boys Spinoff Series, Gen V ([(https://www.amazon.com/gp/video/detail/B0CBFTRGPZ/ref=atv_dp_share_cu_r]) 

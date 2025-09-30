@@ -21,7 +21,7 @@ This is a post to show how I employed "If, else if, else" syntax commands and op
 
 ## Sweater Weather Outputs
 
-![Code Output](https:jodiem55assets/img/sweater-weather-output-screenshot.png.png){: .mx-auto.d-block :}
+![Code Output](https://jodiem55.github.io/assets/img/Screenshot 2025-09-29 194355.jpg){: .mx-auto.d-block :}
 
  ## First Output: "Maybe a light cardigan?"
  
